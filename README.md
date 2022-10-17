@@ -1,2 +1,2 @@
 # git215_setup
- Ledford
+ ## Author: Valerie Ledford
